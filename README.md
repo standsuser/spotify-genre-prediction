@@ -21,9 +21,9 @@ e) Recommend at least 5 fun/not-boring songs that can be played at a party. Feat
 
 1. **Data Cleaning & Engineering**: This phase involves handling missing values, duplicates, and any necessary data transformations to render the data usable for analysis.
 
-2. **Queries Implementation**: The queries mentioned above will be implemented twice, once using SparkSQL and then using SparkDataframes. This approach allows for comparing the efficiency and usability of both methods.
+2. **Queries Implementation**: The queries mentioned above are be implemented twice, once using SparkSQL and then using SparkDataframes. This approach allows for comparing the efficiency and usability of both methods.
 
-3. **Classification**: The dataset will be split into training and testing sets. Classification tasks will be performed using SparkML to predict the genre of each song. Three different classification methods will be applied, and their accuracies will be compared to determine the best classifier.
+3. **Classification**: The dataset is split into training and testing sets. Classification tasks are performed using SparkML to predict the genre of each song. Three different classification methods (Logistic Regression, Random Forest, and Decision Tree) are applied, and their accuracies are compared to determine the best classifier.
 
 ## How to Use
 
